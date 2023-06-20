@@ -2,6 +2,8 @@
 ## Introduction:
 Welcome to the Rock-Paper-Scissors game! This classic game allows you to test your luck and strategy against the computer. The objective is simple: choose rock, paper, or scissors and see if you can beat the computer's move. Follow the steps below to get started:
 
+![Output Screenshot](rock-paper.png)
+
 ## Step 1:
 Access the Rock-Paper-Scissors game by visiting our website's homepage for [programming-related services](https://domyprograminghomework.io), including options to do my programming homework.
 
